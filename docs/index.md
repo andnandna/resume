@@ -32,13 +32,13 @@
 
 | 言語       | 年数 | ライブラリ・フレームワーク | 年数 | その他        | 年数 |
 | ---------- | ---- | -------------------------- | ---- | ------------- | ---- |
-| TypeScript | 3    | Node.js                    | 3    | MySQL         | 7    |
-| Ruby       | 3    | Express                    | 3    | Elasticsearch | 6    |
-| JavaScript | 8    | React                      | 3    | GCP           | 3    |
-| Java       | 2    | Next.js                    | 3    | AWS           | 2    |
-|            |      | Ruby on Rails              | 3    | Scrum         | 5    |
-|            |      | Spring Boot                | 2    | Docker        | 6    |
-|            |      | jQuery                     | 5    |
+| TypeScript | 3    | Express                    | 3    | Node.js       | 3    |
+| Ruby       | 3    | React                      | 3    | MySQL         | 7    |
+| JavaScript | 7    | Next.js                    | 3    | Elasticsearch | 6    |
+| Java       | 2    | Ruby on Rails              | 3    | GCP           | 3    |
+|            |      | Spring Boot                | 2    | AWS           | 2    |
+|            |      | jQuery                     | 5    | Scrum         | 5    |
+|            |      |                            |      | Docker        | 6    |
 
 <!-- ### ライブラリ・フレームワーク
 
@@ -50,7 +50,7 @@
 | Next.js       | 3        |
 | Ruby on Rails | 3        |
 | Spring Boot   | 2        |
-| jQuery        | 5        | -->
+| jQuery        | 5        | --> |
 
 <!-- ### その他
 
@@ -60,7 +60,7 @@
 | Elasticsearch | 6        |
 | GCP           | 3        |
 | AWS           | 2        |
-| Scrum         | 5        | -->
+| Scrum         | 5        | --> |
 
 <!-- ここまで -->
 
