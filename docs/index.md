@@ -9,6 +9,9 @@
 | 居住地   | 埼玉県                |
 | 最終学歴 | 首都大学東京 経営学系 |
 
+### 各種アカウント
+[Github](https://github.com/andnandna) / [X(Twitter)](https://x.com/andnandna) / [Facebook](https://www.facebook.com/yuta.andoh/)
+
 ### [**2025/05 時点での求職要件**](https://bush-puma-065.notion.site/2025-05-1d6e59b0b5a280329f37c78b41dbe42c)
 
 ## スキル
@@ -17,7 +20,6 @@
 
 - バックエンド・フロントエンド両面からの機能開発
 - 機能開発・バグ修正などにおける設計〜実装〜テスト〜リリースまでを継続的に担当
-<!-- - TypeScript(Next.js, Node.js)が得意です。 -->
 
 ### チーム開発・マネジメント
 
@@ -26,15 +28,13 @@
 - メンバー主体の改善活動を促すチーム作り
 - カジュアル面談の担当経験
 
-<!-- ここより下横並びにしたいな -->
-
 ### 技術スタック
 
 | 言語       | 年数 | ライブラリ・フレームワーク | 年数 | その他        | 年数 |
 | ---------- | ---- | -------------------------- | ---- | ------------- | ---- |
 | TypeScript | 3    | Express                    | 3    | Node.js       | 3    |
 | Ruby       | 3    | React                      | 3    | MySQL         | 7    |
-| JavaScript | 7    | Next.js                    | 3    | Elasticsearch | 6    |
+| JavaScript | 7    | Next.js                    | 3    | Elasticsearch | 5    |
 | Java       | 2    | Ruby on Rails              | 3    | GCP           | 3    |
 |            |      | Spring Boot                | 2    | AWS           | 2    |
 |            |      | jQuery                     | 5    | Scrum         | 5    |
@@ -50,7 +50,7 @@
 | Next.js       | 3        |
 | Ruby on Rails | 3        |
 | Spring Boot   | 2        |
-| jQuery        | 5        | --> |
+| jQuery        | 5        | --> 
 
 <!-- ### その他
 
@@ -60,39 +60,59 @@
 | Elasticsearch | 6        |
 | GCP           | 3        |
 | AWS           | 2        |
-| Scrum         | 5        | --> |
-
-<!-- ここまで -->
+| Scrum         | 5        | --> 
 
 ## 職務経歴
 
 ### [コミューン株式会社](https://communeinc.com/ja) (2021/04 - 2024/03)
 
-コミュニティ作成プラットフォーム「[Commune](https://commune.co.jp/)」の開発・運用。
+企業と顧客が双方向に交流できるオンラインコミュニティプラットフォーム「[Commune（コミューン）](https://commune.co.jp/)」の開発・運用に従事。企業が自社ブランドでコミュニティサイトを構築し、顧客のファン化やロイヤルティ向上を図ることを目的としたSaaS型サービスであり、投稿機能、会員管理、分析、外部サービス連携など多機能なシステムの設計・実装を担当。フロントエンド・バックエンド双方の実装に加え、スクラムチームのメンバーおよびリーダーとしてチーム開発を推進した。
 
 #### 規模
 
-3~6 人のチーム
+3~6人のチーム(PdM, デザイナーなど除く)
 
 #### 使用技術など
 
-TypeScript, Node.js, Next.js, MySQL, GCP, スクラム開発
+TypeScript, Node.js, Next.js, MySQL, GCP, Elasticsearch, スクラム開発
 
 #### やったこと
 
+
+<!-- メモだよ -->
+- アプリ保守
+- チームリーダーのこと
+- グループ自動追加
+
+---
+
 ### [株式会社 BitStar](https://bitstar.tokyo/corp/) (2018/09 - 2021/03)
+インフルエンサーの選定・分析・キャスティング支援を行うマーケティング支援プラットフォーム「[BitStar Database](https://bitstar.tokyo/database/)」の開発・運用に従事。登録インフルエンサーのフォロワー属性、エンゲージメント、過去案件の実績、投稿分析など、多様なデータをもとにした検索・分析機能を提供するSaaS型プロダクトである。バックエンド・フロントエンド開発を担当し、AWS上での運用も含めた機能改善および保守業務に従事した。
+
+#### 規模
+
+3~5人のチーム(PdM, デザイナーなど除く)
+
+#### 使用技術など
+
+Ruby, Ruby on Rails, jQuery, AWS, MySQL
+
+---
 
 ### [株式会社 YSKe-com](https://www.ysk.co.jp/) (2016/04 - 2018/08)
+ヒト型ロボット「Pepper」と連携するWebアプリケーションおよび、Pepper本体に搭載するアプリケーションの開発に従事。官公庁向けの受付用アプリケーションは実際の現場で運用され、対話による案内や来訪者情報の管理機能を提供した。また、社内で利用する受付システムの開発も行い、業務効率化に寄与した。これらのアプリケーションの設計、実装、運用までを幅広く担当した。
+
+#### 規模
+3人のチーム
+
+#### 使用技術など
+Java, Spring Boot, AWS, MySQL
 
 ## 自己 PR
 
 ### 大事にしていること・考え
 
-## 各種アカウント
-
-- [Github](https://github.com/andnandna)
-- [X(Twitter)](https://x.com/andnandna)
-- [Facebook](https://www.facebook.com/yuta.andoh/)
+<!-- ## 志望動機 -->
 
 ## 趣味・好きなこと/もの
 
