@@ -37,7 +37,15 @@
 | TypeScript | 3年 | Express, React, Next.js |
 | Ruby       | 3年 | Ruby on Rails |
 | Java       | 2年 | Spring Boot |
-| その他 | | MySQL(7年), Elasticsearch(5年), Docker(6年), AWS(3年), GCP(3年), スクラム(5年)
+
+| その他 | 年数 |
+|---|---|
+|MySQL|7年|
+|Elasticsearch|5年|
+|Docker|6年|
+|AWS|3年|
+|GCP|3年|
+|スクラム|5年|
 
 ---
 
