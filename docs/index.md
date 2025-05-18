@@ -1,3 +1,7 @@
+## [**2025/05 時点での求職要件**](https://bush-puma-065.notion.site/2025-05-1d6e59b0b5a280329f37c78b41dbe42c)
+
+---
+
 # 基本情報
 
 | key      | value                 |
@@ -9,8 +13,6 @@
 
 ## 各種アカウント
 [Github](https://github.com/andnandna) / [X(Twitter)](https://x.com/andnandna) / [Facebook](https://www.facebook.com/yuta.andoh/)
-
-## [**2025/05 時点での求職要件**](https://bush-puma-065.notion.site/2025-05-1d6e59b0b5a280329f37c78b41dbe42c)
 
 ---
 
@@ -102,12 +104,14 @@ Ruby, Ruby on Rails, jQuery, AWS, MySQL, スクラム開発
 - フロントエンド・バックエンド担当エンジニア(設計〜開発〜運用)
 
 ### 主な使用技術など
-Java, Spring Boot, AWS, MySQL
+Java, Spring Boot, AWS, MySQL, Python
 
 ### 主な実績
 
 | 実績 | 役割 | 詳細 |
 | --- | --- | --- |
+| 官公庁向け窓口案内アプリケーション | エンジニア | 来庁目的から窓口を案内するアプリケーションをPepper + Webアプリケーションで開発しました。 |
+| 企業向け受付アプリケーション | エンジニア | 企業への来訪に際して、目的の人物を呼び出せるアプリケーションをPepper + Webアプリケーションで開発しました。 |
 
 ---
 
