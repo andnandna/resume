@@ -38,6 +38,8 @@
 | Ruby       | 3年 | Ruby on Rails |
 | Java       | 2年 | Spring Boot |
 
+.
+
 | その他 | 年数 |
 |---|---|
 |MySQL|7年|
