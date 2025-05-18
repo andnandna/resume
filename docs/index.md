@@ -90,6 +90,10 @@ Ruby, Ruby on Rails, jQuery, AWS, MySQL, スクラム開発
 
 #### 主な実績
 
+| 実績 | 役割 | 詳細 |
+| --- | --- | --- |
+|
+
 ---
 
 ### [株式会社 YSKe-com](https://www.ysk.co.jp/) (2016/04 - 2018/08)
@@ -103,6 +107,9 @@ Ruby, Ruby on Rails, jQuery, AWS, MySQL, スクラム開発
 Java, Spring Boot, AWS, MySQL
 
 #### 主な実績
+
+| 実績 | 役割 | 詳細 |
+| --- | --- | --- |
 
 ---
 
