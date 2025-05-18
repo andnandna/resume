@@ -92,7 +92,7 @@ Ruby, Ruby on Rails, jQuery, AWS, MySQL, スクラム開発
 
 | 実績 | 役割 | 詳細 |
 | --- | --- | --- |
-|
+| 
 
 ---
 
