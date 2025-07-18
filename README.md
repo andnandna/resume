@@ -2,7 +2,7 @@
 
 READMEが読みづらければ[Github Pages](https://andnandna.github.io/resume/)を見てください。
 
-## [**2025/05 時点での求職要件**](https://bush-puma-065.notion.site/2025-05-1d6e59b0b5a280329f37c78b41dbe42c)
+## [**2025/07 時点での求職要件**](https://bush-puma-065.notion.site/2025-05-1d6e59b0b5a280329f37c78b41dbe42c)
 
 ---
 
