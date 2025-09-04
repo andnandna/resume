@@ -1,4 +1,4 @@
-READMEが読みづらければ[Github Pages](https://andnandna.github.io/resume/)をご覧ください。
+READMEが読みづらければ[GitHub Pages](https://andnandna.github.io/resume/)をご覧ください。
 
 # Yuta Ando's Resume
 ## [**2025/07 時点での求職要件**](https://bush-puma-065.notion.site/2025-05-1d6e59b0b5a280329f37c78b41dbe42c)
